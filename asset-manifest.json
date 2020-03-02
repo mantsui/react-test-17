@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mantsui/react-test-17/configdiag/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/mantsui/react-test-17/configdiag/static/js/main.4b7537df.chunk.js",
+    "main.js.map": "/mantsui/react-test-17/configdiag/static/js/main.4b7537df.chunk.js.map",
+    "runtime-main.js": "/mantsui/react-test-17/configdiag/static/js/runtime-main.b196a8fa.js",
+    "runtime-main.js.map": "/mantsui/react-test-17/configdiag/static/js/runtime-main.b196a8fa.js.map",
+    "static/js/2.f5fcc2b5.chunk.js": "/mantsui/react-test-17/configdiag/static/js/2.f5fcc2b5.chunk.js",
+    "static/js/2.f5fcc2b5.chunk.js.map": "/mantsui/react-test-17/configdiag/static/js/2.f5fcc2b5.chunk.js.map",
+    "index.html": "/mantsui/react-test-17/configdiag/index.html",
+    "precache-manifest.6847775974233bcff4c94ce1a2a83527.js": "/mantsui/react-test-17/configdiag/precache-manifest.6847775974233bcff4c94ce1a2a83527.js",
+    "service-worker.js": "/mantsui/react-test-17/configdiag/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/mantsui/react-test-17/configdiag/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f5fcc2b5.chunk.js.LICENSE": "/mantsui/react-test-17/configdiag/static/js/2.f5fcc2b5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b196a8fa.js",
+    "static/js/2.f5fcc2b5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4b7537df.chunk.js"
+  ]
+}
